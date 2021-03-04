@@ -31,7 +31,7 @@ function Page(props) {
                 <AccountCircle />
             </Toolbar>
             <div>
-                <button>prueba1</button>
+                <button>prueba2</button>
             </div>
         </AppBar>
     );
