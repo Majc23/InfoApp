@@ -30,9 +30,7 @@ function Page(props) {
 
                 <AccountCircle />
             </Toolbar>
-            <div>
-                <button>prueba2</button>
-            </div>
+
         </AppBar>
     );
 }
