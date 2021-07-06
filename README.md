@@ -16,6 +16,8 @@ The app provides one screens:
 
 The search engine works with autocomplete or, if applicable, returns all possible cases based on the name searched
 
+The autocomplete is a component that has an entry, when updating this entry it performs a search within a local data directory in which it contains a file with an arrangement of several elements and each element has an id, title, image and content
+
 ## Installation
 
 To get started please follow the steps below:
